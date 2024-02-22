@@ -1,4 +1,3 @@
-// complete this js code
 function Person(name, age) {
 	this.name = name;
 	this.age = age;
